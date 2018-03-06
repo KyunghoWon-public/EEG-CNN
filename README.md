@@ -4,7 +4,9 @@ Attempts to implement EEG-CNN using tensorflow
 The small attempts include the followings:
 
 step1. 2-layer NN
+
 step2. MNIST - CNN
+
 step3. tuning other applications
 
 Goal: tensorflow-based EEG-CNN framework
