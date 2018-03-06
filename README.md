@@ -18,3 +18,5 @@ Comparison: performance comparision with
  1. LDA
  2. SWLDA
  3. SVM
+
+All the attempts will be added into the repository.
