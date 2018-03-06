@@ -19,4 +19,4 @@ Comparison: performance comparision with
  2. SWLDA
  3. SVM
 
-All the attempts will be added into the repository.
+It will be started from super basic concept, and all the attempts will be added into the repository.
